@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+    background-color: paleturquoise;
+    position: relative;
+    padding-top: 100px;
+    color: teal;
+    padding-bottom: 20%;
+    padding-top: 10%;
+}
+.Soft {
+    font-weight: bold;
+    color:  cadetblue;
+}
+h1 {
+   font-size: 5.6rem;
+   margin: 50px auto 0 auto;
+}
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.web-page {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    height: 100px;
+}
+.file {
+    position: absolute;
+    left: 300px;
+    height: 100px;
+}
+.middle-container {
+    margin: 50px 0;
+}
+.me-picture {
+    width: 180px;
+    height: auto;
+    border-radius: 50%;
+}
